@@ -3,7 +3,7 @@ The Software Engineering term project in fall 2016.
 
 ## About the code style
 ### Naming
-I only use three styles for all source files.
+I only use two styles for all source files.
 #### Style 1
 For function names, variable names
 Code:
