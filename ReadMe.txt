@@ -1,1 +1,0 @@
-﻿The Software Engineering term project
