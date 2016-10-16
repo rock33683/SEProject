@@ -3,4 +3,5 @@
 
 using namespace std;
 
-bool login(string user_name, string password);
+//TODO: may combine all related functions to a class
+bool login(string userName, string password);
