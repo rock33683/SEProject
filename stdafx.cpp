@@ -1,8 +1,8 @@
-// stdafx.cpp : ƒH°üº¬˜ËœÊ Include ™nµÄÔ­Ê¼³ÌÊ½™n
-// SEPrototype.pch •þ³ÉžéÏÈÐÐ¾Ž×g˜Ëî^™n
-// stdafx.obj •þ°üº¬ÏÈÐÐ¾Ž×gîÐÍÙYÓ
+ï»¿// stdafx.cpp : åƒ…åŒ…å«æ¨™æº– Include æª”çš„åŽŸå§‹ç¨‹å¼æª”
+// SEPrototype.pch æœƒæˆç‚ºå…ˆè¡Œç·¨è­¯æ¨™é ­æª”
+// stdafx.obj æœƒåŒ…å«å…ˆè¡Œç·¨è­¯é¡žåž‹è³‡è¨Š
 
 #include "stdafx.h"
 
-// TODO:  ÔÚ STDAFX.H ÖÐ…¢¿¼ÄúÐèÒªµÄÈÎºÎÆäËû˜Ëî^£¬
-// ¶ø²»ÒªÔÚß@‚€™n°¸ÖÐ…¢¿¼
+// TODO:  åœ¨ STDAFX.H ä¸­åƒè€ƒæ‚¨éœ€è¦çš„ä»»ä½•å…¶ä»–æ¨™é ­ï¼Œ
+// è€Œä¸è¦åœ¨é€™å€‹æª”æ¡ˆä¸­åƒè€ƒ

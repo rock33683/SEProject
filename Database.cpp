@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "Database.h"
 
 bool login(string user_name, string password)
