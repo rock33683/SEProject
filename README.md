@@ -36,7 +36,7 @@ int countFactorial(int theInputNumber) {
 int main(int argc, char* argv[]) {
   cout << "This is an example of ultra long line of text, or a long text segment." << endl
     << "It's recommended to seperate deferent lines in source codes." << endl
-    << "This is the last line. << endl;
+    << "This is the last line." << endl;
     
   int theMagic = 1234;
   switch(theMagic) {
